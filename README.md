@@ -1,3 +1,6 @@
+# ARCHIVED
+Voyage I Lab is now deprecated.
+
 # Voyage I Lab: Updating to Federation v2
 
 Welcome to Voyage I Lab! In this hands-on project we'll take the companion app of Odyssey Voyage I, FlyBy, and update it to use Apollo Federation v2! You can find the [course lessons and instructions in Odyssey](https://odyssey.apollographql.com/voyage-i-lab), Apollo's learning platform.
